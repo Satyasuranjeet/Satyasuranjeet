@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=satyasuranjeet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://res.cloudinary.com/practicaldev/image/fetch/s--pxxN7gvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhmldpyrr2nwrmmcxo7k.png)https://res.cloudinary.com/practicaldev/image/fetch/s--pxxN7gvW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhmldpyrr2nwrmmcxo7k.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satyasuranjeet&icon=0&color=0)](https://visitcount.itsvg.in)
