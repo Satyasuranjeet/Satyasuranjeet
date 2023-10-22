@@ -1,7 +1,7 @@
 
 <img src="./Images/img.png" alt="Hello world">
 
-<h3 align="center">A passionate Full-Stack Web and Flutter App Developer, AI/ML & Cloud Solutions Novice, and Tech Consultant Bringing Ideas to Life in the Digital World.</h3>
+<h3 align="center">A passionate Full-Stack Web and Flutter App Developer & AI/ML & Cloud Solutions Novice, and Tech Consultant Bringing Ideas to Life in the Digital World.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyasuranjeet&label=Profile%20views&color=0e75b6&style=flat" alt="satyasuranjeet" /> </p>
 
