@@ -25,5 +25,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyasuranjeet&show_icons=true&locale=en" alt="satyasuranjeet" /></p>
+<p>&nbsp;<img style="display: block; margin: 0 auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=satyasuranjeet&show_icons=true&locale=en" alt="satyasuranjeet" /></p>
+
 
