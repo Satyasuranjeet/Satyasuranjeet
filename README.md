@@ -3,6 +3,8 @@
 
 <h3 align="center">A passionate Full-Stack Web and Flutter App Developer & AI/ML & Cloud Solutions Novice, and Tech Consultant Bringing Ideas to Life in the Digital World.</h3>
 
+[![An image of @satyajena911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyajena911)](https://holopin.io/@satyajena911)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyasuranjeet&label=Profile%20views&color=0e75b6&style=flat" alt="satyasuranjeet" /> </p>
 
 - 🌱 I’m currently learning web/app/ai **React,Flutter**
