@@ -182,11 +182,6 @@
 
 <br>
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)
-
-</div>
 
 <div align="center">
 
