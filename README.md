@@ -88,6 +88,14 @@
 </div>
 
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</div>
+
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=satyasuranjeet&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
@@ -106,7 +114,7 @@
 </a>
 
 <a href="https://github.com/Satyasuranjeet/AI-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=Music-St-Home&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=AI-ChatBot&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 
 </div>
