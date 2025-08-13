@@ -34,56 +34,14 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="50%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding Animation"/>
 
-<br><br>
+</td>
+<td width="50%" align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=1A1A1A&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="300"/>
-
-</td>
-<td width="65%">
-
-<div align="left">
-
-\`\`\`yaml
-name: Satya Suranjeet Jena
-located_in: India
-current_job: Full-Stack Developer
-education: 
-  - "Self-taught Developer"
-  - "Computer Science Enthusiast"
-
-fields_of_interests:
-  - "Web Development"
-  - "Mobile Development" 
-  - "AI/ML"
-  - "Cloud Computing"
-  - "DevOps"
-
-technical_background:
-  - "Full-Stack Development"
-  - "Flutter Development"
-  - "AI/ML Engineering"
-  - "Cloud Architecture"
-
-currently_learning: 
-  - "React Advanced Patterns"
-  - "Flutter State Management"
-
-2024_goals:
-  - "Create amazing open source projects"
-  - "Master AI/ML"
-  - "Build scalable applications"
-
-hobbies: 
-  - "Gaming"
-  - "Reading Tech Blogs"
-  - "Contributing to Open Source"
-\`\`\`
-
-</div>
 
 </td>
 </tr>
