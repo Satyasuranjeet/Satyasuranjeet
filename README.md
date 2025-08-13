@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<!-- Enhanced typing animation with more dynamic content -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚡+Crafting+Digital+Solutions+⚡;🚀+Building+Tomorrow's+Technology+🚀;🤖+AI+%7C+Web+%7C+Mobile+%7C+Cloud+🤖;✨+Let's+Code+the+Future+Together+✨" alt="Typing SVG" />
+<!-- Modified typing animation to single line instead of multiline -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=⚡+Crafting+Digital+Solutions+🚀+Building+Tomorrow's+Technology+🤖+AI+%7C+Web+%7C+Mobile+%7C+Cloud+✨+Let's+Code+the+Future+Together+⚡" alt="Typing SVG" />
 
 </div>
 
@@ -24,20 +24,14 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation"/>
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-<!-- Added animated tech knowledge tree diagram -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Tech Knowledge Tree"/>
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=1A1A1A&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="280"/>
 
 </td>
 </tr>
@@ -91,10 +85,6 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyasuranjeet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyasuranjeet&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=satyasuranjeet&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
