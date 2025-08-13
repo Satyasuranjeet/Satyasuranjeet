@@ -145,31 +145,42 @@
 
 </div>
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Satyasuranjeet/Stinum_V1.0">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=Stinum_V1.0&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
-
-<a href="https://github.com/Satyasuranjeet/AI-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=AI-ChatBot&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-</a>
-
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Satyasuranjeet/Emoji-Encrypt-x">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=Emoji-Encrypt-x&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/Satyasuranjeet/FireSafe-Pro">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=FireSafe-Pro&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
-
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Satyasuranjeet/WakiTaki">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=WakiTaki&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
+</td>
+</tr>
 
-</div>
+<tr>
+<td colspan="2" align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyasuranjeet&repo=Coming-Soon&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700" alt="Coming Soon 🚀" />
+</a>
+</td>
+</tr>
+</table>
 
-<br>
 
 
 <div align="center">
