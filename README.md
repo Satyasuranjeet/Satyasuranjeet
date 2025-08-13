@@ -1,91 +1,211 @@
-<div style="font-family: 'Fira Code', monospace; background-color: #0d1117; color: #c9d1d9; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px;">
+```html
+<div align="center">
+  
+<!-- Animated Header with Holographic Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SATYA%20SURANJEET%20JENA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Flutter%20Specialist&descAlignY=60&descSize=18"/>
 
-<p align="center">
-  <img src="./Images/img.png" alt="Hello world" style="border-radius: 50%; border: 3px solid #58a6ff;">
+<!-- Matrix-style animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5FF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=INITIALIZING+QUANTUM+SYSTEMS...;NEURAL+NETWORKS+ONLINE;REALITY+AUGMENTATION+ACTIVE;WELCOME+TO+THE+FUTURE" alt="Typing SVG" />
+
+<!-- Holographic Profile Picture Frame -->
+<img src="https://github.com/Satyasuranjeet.png" width="200" style="border-radius: 50%; border: 4px solid #00f5ff; box-shadow: 0 0 30px #00f5ff, inset 0 0 30px #00f5ff; animation: pulse 2s infinite;"/>
+
+<!-- Status badges with neon glow -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=000000&color=00ff41"/>
+  <img src="https://img.shields.io/badge/NEURAL_LINK-ACTIVE-ff0080?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/QUANTUM_STATE-SUPERPOSITION-9d00ff?style=for-the-badge&logo=atom&logoColor=white&labelColor=000000"/>
 </p>
 
-<h3 align="center" style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">A passionate Full-Stack Web and Flutter App Developer, AI/ML & Cloud Solutions Novice, and Tech Consultant Bringing Ideas to Life in the Digital World.</h3>
+<!-- Visitor counter with cyberpunk styling -->
+<img src="https://komarev.com/ghpvc/?username=satyasuranjeet&style=for-the-badge&color=00f5ff&labelColor=000000&label=MATRIX+VISITORS"/>
 
-<p align="center">
-  <a href="https://holopin.io/@satyajena911">
-    <img src="https://holopin.me/satyajena911" alt="An image of @satyajena911's Holopin badges, which is a link to view their full Holopin profile">
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyasuranjeet&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+---
 
-<h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">🚀 About Me</h2>
+## 🌐 QUANTUM PROFILE INTERFACE
 
-- 🌱 I'm currently learning web/app/ai technologies, focusing on **React and Flutter**
-- 👯 I'm looking to collaborate on React development projects like [Stinum](https://github.com/Satyasuranjeet/Stinum_V1.0)
+<div align="center">
 
-<h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">🔗 Connect with me</h2>
+<!-- Holographic trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Satyasuranjeet&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4"/>
 
-<p align="center">
-  <a href="https://twitter.com/satyasuranjeet" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyasuranjeet" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/satya-suranjeet-jena-b85277222/" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satya-suranjeet-jena-b85277222/" height="30" width="40" /></a>
-  <a href="https://fb.com/rock.satya.1447" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rock.satya.1447" height="30" width="40" /></a>
-  <a href="https://instagram.com/satyasuranjeet" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyasuranjeet" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/satyajena911" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyajena911" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/satyasuranjeet" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyasuranjeet" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/satyajenzqy8" target="_blank" style="margin: 0 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyajenzqy8" height="30" width="40" /></a>
-</p>
+</div>
 
-<h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">💻 Languages and Tools</h2>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    ◢◤ SYSTEM SPECIFICATIONS ◢◤              ║
+╠══════════════════════════════════════════════════════════════╣
+║  ▸ DESIGNATION: Full-Stack Architect & AI Specialist        ║
+║  ▸ PROTOCOLS: React.js | Flutter | Node.js | Python         ║
+║  ▸ NEURAL NET: TensorFlow | PyTorch | Scikit-Learn          ║
+║  ▸ QUANTUM DB: MongoDB | PostgreSQL | Firebase              ║
+║  ▸ CLOUD SYS: AWS | GCP | Azure | Kubernetes                ║
+║  ▸ STATUS: Learning Advanced AI/ML Architectures            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 0 10px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+## 🚀 ACTIVE PROTOCOLS
 
-<h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px;">📊 GitHub Stats</h2>
+<div align="center">
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 10px;">
-  <tr>
-    <td style="background-color: #161b22; border-radius: 6px; padding: 10px;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Satyasuranjeet&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td style="background-color: #161b22; border-radius: 6px; padding: 10px;" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasuranjeet&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color: #161b22; border-radius: 6px; padding: 10px;" align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasuranjeet&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
+<!-- Animated skill bars -->
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,python,tensorflow,docker,kubernetes,aws,mongodb,postgresql&theme=dark" />
+
+</div>
+
+```yaml
+Currently Executing:
+  - 🧠 Neural Network Optimization
+  - 🔮 Quantum Computing Research  
+  - 🚀 Cross-Platform App Development
+  - 🌌 Cloud Architecture Design
+  - 🤖 AI Model Training & Deployment
+
+Mission Objectives:
+  - Collaborative Projects: Open to React/Flutter initiatives
+  - Target Repository: Stinum V2.0 (Next-Gen Platform)
+  - Focus Areas: Real-time AI integration
+```
+
+## 📡 COMMUNICATION CHANNELS
+
+<div align="center">
+
+<!-- Social links with neon styling -->
+<a href="https://twitter.com/satyasuranjeet">
+  <img src="https://img.shields.io/badge/TWITTER-NEURAL_LINK-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://linkedin.com/in/satya-suranjeet-jena-b85277222/">
+  <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://instagram.com/satyasuranjeet">
+  <img src="https://img.shields.io/badge/INSTAGRAM-VISUAL_FEED-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/satyajena911">
+  <img src="https://img.shields.io/badge/HACKERRANK-CODE_WARRIOR-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://www.leetcode.com/satyasuranjeet">
+  <img src="https://img.shields.io/badge/LEETCODE-ALGORITHM_MASTER-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/satyajenzqy8">
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-PROBLEM_SOLVER-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=000000"/>
+</a>
+
+</div>
+
+## 🛠️ QUANTUM TOOLKIT
+
+<div align="center">
+
+<!-- Technology matrix -->
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend Reality
+```typescript
+const frontend = {
+  languages: ['JavaScript', 'TypeScript', 'Dart'],
+  frameworks: ['React.js', 'Flutter', 'Next.js'],
+  styling: ['TailwindCSS', 'Material-UI', 'Styled-Components'],
+  tools: ['Webpack', 'Vite', 'Figma']
+};
+```
+
+</td>
+<td valign="top" width="33%">
+
+### ⚡ Backend Dimension  
+```python
+backend = {
+    "languages": ["Python", "JavaScript", "Java"],
+    "frameworks": ["Node.js", "Express", "FastAPI"],
+    "databases": ["MongoDB", "PostgreSQL", "Redis"],
+    "cloud": ["AWS", "GCP", "Docker", "Kubernetes"]
+}
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI/ML Universe
+```python
+ai_ml = {
+    "frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn"],
+    "specialties": ["Computer Vision", "NLP", "Deep Learning"],
+    "tools": ["Jupyter", "Google Colab", "MLflow"],
+    "deployment": ["TensorFlow Serving", "FastAPI", "Docker"]
+}
+```
+
+</td>
+</tr>
 </table>
 
-<div style="margin-top: 30px; text-align: center; font-style: italic;">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=satyasuranjeet&label=Profile%20views&color=0e75b6&style=flat" alt="satyasuranjeet" />
-  </p>
-  <p align="center">Feel free to reach out and connect!</p>
 </div>
 
+## 📊 SYSTEM ANALYTICS
+
+<div align="center">
+
+<!-- GitHub stats with cyberpunk theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyasuranjeet&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasuranjeet&theme=synthwave&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff0080&currStreakLabel=00f5ff"/>
+
+<br><br>
+
+<!-- Language stats with matrix theme -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasuranjeet&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8"/>
+
 </div>
+
+## 🎯 QUANTUM CONTRIBUTIONS
+
+<div align="center">
+
+<!-- 3D contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyasuranjeet&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=ff0080&point=00f5ff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+## 🌟 FEATURED REPOSITORIES
+
+<div align="center">
+
+<!-- Repo cards with futuristic styling -->
+<a href="https://github.com/Satyasuranjeet/Stinum_V1.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyasuranjeet&repo=Stinum_V1.0&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff0080&text_color=c9d1d9"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 QUANTUM SIGNATURE
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   "In the quantum realm of code, every bug is a feature      ║
+║    waiting to be discovered in parallel universe."          ║
+║                                                              ║
+║    - Satya Suranjeet Jena, Quantum Developer                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+<!-- Real-time metrics -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satyasuranjeet&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" />
+
+**⚡ Powered by Quantum Computing & Fueled by Coffee ⚡**
+
+</div>
+```
