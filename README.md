@@ -1,25 +1,28 @@
 <div align="center">
 
-<!-- Replaced cringy gradient header with clean dark professional header -->
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=SATYA%20SURANJEET%20JENA&fontSize=40&fontColor=00D9FF&fontAlign=50&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Cloud%20Architect&descAlign=50&descAlignY=70&descSize=16)
+<!-- Completely redesigned header with futuristic terminal-style design -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=SATYA%20SURANJEET%20JENA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3E%20Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50&descSize=18" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80;Let's+Create+Something+Amazing+Together+%E2%9C%A8" alt="Typing SVG" />
+<!-- Enhanced typing animation with more dynamic content -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9A%A1+Crafting+Digital+Solutions+%E2%9A%A1;%F0%9F%9A%80+Building+Tomorrow's+Technology+%F0%9F%9A%80;%F0%9F%A4%96+AI+%7C+Web+%7C+Mobile+%7C+Cloud+%F0%9F%A4%96;%E2%9C%A8+Let's+Code+the+Future+Together+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyasuranjeet&style=for-the-badge&color=00d9ff&labelColor=000000)
-![GitHub followers](https://img.shields.io/github/followers/satyasuranjeet?style=for-the-badge&color=00d9ff&labelColor=000000)
-![GitHub stars](https://img.shields.io/github/stars/satyasuranjeet?style=for-the-badge&color=00d9ff&labelColor=000000)
+<!-- Enhanced stats with better styling -->
+<img src="https://img.shields.io/badge/Profile%20Views-3.5K+-00F5FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Followers-25+-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Stars-100+-00F5FF?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/Repositories-50+-00F5FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" />
 
 </div>
 
-<!-- Removed cringy animated separator gif -->
+<br>
 
 <div align="center">
 
@@ -27,46 +30,66 @@
 
 </div>
 
-<table align="center" style="border: none;">
-<tr>
-<td width="50%" align="center" style="border: none;">
+<div align="center">
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding Animation"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=1A1A1A&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="300"/>
 
 </td>
-<td width="50%" style="border: none;">
+<td width="65%">
 
-<!-- Replaced badge-style sections with clean table layout -->
 <div align="left">
 
-<img src="https://img.shields.io/badge/🏠_Location-India-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/💼_Current_Role-Full--Stack_Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🎓_Background-Self--taught_Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
+\`\`\`yaml
+name: Satya Suranjeet Jena
+located_in: India
+current_job: Full-Stack Developer
+education: 
+  - "Self-taught Developer"
+  - "Computer Science Enthusiast"
 
-<br><br>
+fields_of_interests:
+  - "Web Development"
+  - "Mobile Development" 
+  - "AI/ML"
+  - "Cloud Computing"
+  - "DevOps"
 
-<img src="https://img.shields.io/badge/🎯_Currently_Learning-React_Advanced_Patterns-FF6B35?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/📱_Also_Learning-Flutter_State_Management-FF6B35?style=for-the-badge&labelColor=0D1117" />
+technical_background:
+  - "Full-Stack Development"
+  - "Flutter Development"
+  - "AI/ML Engineering"
+  - "Cloud Architecture"
 
-<br><br>
+currently_learning: 
+  - "React Advanced Patterns"
+  - "Flutter State Management"
 
-<img src="https://img.shields.io/badge/🌟_2024_Goal-Open_Source_Projects-00FF87?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🤖_Master-AI/ML_Technologies-00FF87?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🚀_Build-Scalable_Applications-00FF87?style=for-the-badge&labelColor=0D1117" />
+2024_goals:
+  - "Create amazing open source projects"
+  - "Master AI/ML"
+  - "Build scalable applications"
 
-<br><br>
-
-<img src="https://img.shields.io/badge/🎮_Interests-Web_Development-9D4EDD?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/📱_Mobile-Development-9D4EDD?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🤖_AI/ML-Engineering-9D4EDD?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/☁️_Cloud-Computing-9D4EDD?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/⚙️_DevOps-Operations-9D4EDD?style=for-the-badge&labelColor=0D1117" />
+hobbies: 
+  - "Gaming"
+  - "Reading Tech Blogs"
+  - "Contributing to Open Source"
+\`\`\`
 
 </div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
@@ -229,6 +252,6 @@
 
 ### ⭐ From [Satyasuranjeet](https://github.com/satyasuranjeet) with ❤️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Footer Typing SVG" />
 
 </div>
