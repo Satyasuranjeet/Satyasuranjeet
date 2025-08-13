@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -26,40 +26,43 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" align="center" style="border: none;">
 
-\`\`\`yaml
-name: Satya Suranjeet Jena
-located_in: India
-current_job: Full-Stack Developer
-education:
-  [
-    "Self-taught Developer",
-    "Computer Science Enthusiast"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Development", 
-    "AI/ML",
-    "Cloud Computing",
-    "DevOps"
-  ]
-technical_background:
-  [
-    "Full-Stack Development",
-    "Flutter Development",
-    "AI/ML Engineering",
-    "Cloud Architecture"
-  ]
-currently_learning: ["React Advanced Patterns", "Flutter State Management"]
-2024_goals: ["Create amazing open source projects", "Master AI/ML", "Build scalable applications"]
-hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
-\`\`\`
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</td>
+<td width="50%" style="border: none;">
 
 <div align="center">
 
----
+### 👨‍💻 Developer Profile
+
+<img src="https://img.shields.io/badge/Name-Satya%20Suranjeet%20Jena-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-India-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
+
+### 🎯 Current Focus
+
+<img src="https://img.shields.io/badge/Learning-React%20Advanced%20Patterns-FF6B35?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Learning-Flutter%20State%20Management-FF6B35?style=for-the-badge&labelColor=0D1117" />
+
+### 🌟 2024 Goals
+
+<img src="https://img.shields.io/badge/Goal-Open%20Source%20Projects-00FF87?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Goal-Master%20AI/ML-00FF87?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Goal-Scalable%20Applications-00FF87?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -80,9 +83,9 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 ### 🤖 AI/ML & Data Science
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -90,14 +93,9 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github,vscode,postman&theme=dark" />
 </p>
 
-### 🎮 Game Development
-<p>
-<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" />
-</p>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -118,7 +116,7 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 <img src="https://github-profile-trophy.vercel.app/?username=satyasuranjeet&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -130,7 +128,7 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -150,7 +148,7 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -161,27 +159,27 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 <div align="center">
 
 <a href="https://linkedin.com/in/satya-suranjeet-jena-b85277222" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://twitter.com/satyasuranjeet" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://instagram.com/satyasuranjeet" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://www.hackerrank.com/satyajena911" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://leetcode.com/satyasuranjeet" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/satyajenzqy8" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -197,7 +195,7 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -207,25 +205,11 @@ hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to Open Source"]
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House&bg_color=0D1117" />
 
 </div>
 
----
-
-<div align="center">
-
-## 🎵 Spotify Playing
-
-</div>
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6rlup4bsn4vkqyxaze2a6w5aq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=false" />
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
