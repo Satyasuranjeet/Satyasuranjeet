@@ -8,17 +8,7 @@
 <div align="center">
 
 <!-- Enhanced typing animation with more dynamic content -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%9A%A1+Crafting+Digital+Solutions+%E2%9A%A1;%F0%9F%9A%80+Building+Tomorrow's+Technology+%F0%9F%9A%80;%F0%9F%A4%96+AI+%7C+Web+%7C+Mobile+%7C+Cloud+%F0%9F%A4%96;%E2%9C%A8+Let's+Code+the+Future+Together+%E2%9C%A8" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-<!-- Enhanced stats with better styling -->
-<img src="https://img.shields.io/badge/Profile%20Views-3.5K+-00F5FF?style=for-the-badge&logo=eye&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Followers-25+-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Stars-100+-00F5FF?style=for-the-badge&logo=star&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Repositories-50+-00F5FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=⚡+Crafting+Digital+Solutions+⚡;🚀+Building+Tomorrow's+Technology+🚀;🤖+AI+%7C+Web+%7C+Mobile+%7C+Cloud+🤖;✨+Let's+Code+the+Future+Together+✨" alt="Typing SVG" />
 
 </div>
 
@@ -34,14 +24,20 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation"/>
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=1A1A1A&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="300"/>
+<!-- Added animated tech knowledge tree diagram -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280" alt="Tech Knowledge Tree"/>
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=satyasuranjeet&theme=dark&hide_border=true&background=1A1A1A&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="280"/>
 
 </td>
 </tr>
