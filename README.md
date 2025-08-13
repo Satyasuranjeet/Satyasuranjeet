@@ -79,31 +79,65 @@
 <div align="center">
 
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <sub>Dark theme • borderless • consistent accents</sub>
+</p>
 
-</div>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
+<!-- Quick Divider -->
+<p align="center">
+  <img alt="divider" height="1" width="60%" src="https://img.shields.io/badge/-_-0D1117?style=for-the-badge" />
+</p>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyasuranjeet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyasuranjeet&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
+<!-- Stats Cards (2-up) -->
+<table align="center" width="100%" style="border:0;">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        alt="GitHub Stats"
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyasuranjeet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        alt="Top Languages"
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyasuranjeet&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+      />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=satyasuranjeet&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
-</div>
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <a href="https://github.com/satyasuranjeet">
+    <img
+      alt="Contribution Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+    />
+  </a>
+</p>
 
-<br>
+<!-- Streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=satyasuranjeet&theme=algolia&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"
+    />
+  </a>
+</p>
 
-<div align="center">
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=satyasuranjeet&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
-<br>
+<!-- Trophies (4x2 Grid) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      alt="Profile Trophies"
+      src="https://github-profile-trophy.vercel.app/?username=satyasuranjeet&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    />
+  </a>
+</p>
 
 <div align="center">
 
