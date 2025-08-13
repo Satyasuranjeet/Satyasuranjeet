@@ -171,14 +171,6 @@
 </a>
 </td>
 </tr>
-
-<tr>
-<td colspan="2" align="center">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Satyasuranjeet&repo=Coming-Soon&theme=algolia&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700" alt="Coming Soon 🚀" />
-</a>
-</td>
-</tr>
 </table>
 
 
