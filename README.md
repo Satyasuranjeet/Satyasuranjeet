@@ -155,9 +155,22 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=AI-ChatBot&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 
+<a href="https://github.com/Satyasuranjeet/Emoji-Encrypt-x">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=Emoji-Encrypt-x&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+</a>
+
+<a href="https://github.com/Satyasuranjeet/FireSafe-Pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=FireSafe-Pro&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+</a>
+
+<a href="https://github.com/Satyasuranjeet/WakiTaki">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=WakiTaki&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+</a>
+
 </div>
 
 <br>
+
 
 <div align="center">
 
