@@ -106,7 +106,7 @@
 </a>
 
 <a href="https://github.com/Satyasuranjeet/AI-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=AI-ChatBot&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyasuranjeet&repo=Music-St-Home&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" />
 </a>
 
 </div>
