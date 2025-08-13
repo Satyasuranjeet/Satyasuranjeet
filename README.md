@@ -151,18 +151,6 @@ hobbies:
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-
 ## 🚀 Featured Projects
 
 </div>
