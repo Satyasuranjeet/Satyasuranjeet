@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SATYA%20SURANJEET%20JENA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Cloud%20Architect&descAlignY=60&descSize=20)
+<!-- Replaced cringy gradient header with clean dark professional header -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=SATYA%20SURANJEET%20JENA&fontSize=40&fontColor=00D9FF&fontAlign=50&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20%7C%20Cloud%20Architect&descAlign=50&descAlignY=70&descSize=16)
 
 </div>
 
@@ -18,7 +19,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Removed cringy animated separator gif -->
 
 <div align="center">
 
@@ -35,24 +36,23 @@
 </td>
 <td width="50%" style="border: none;">
 
-<div align="center">
+<!-- Replaced badge-style sections with clean table layout -->
+<div align="left">
 
-### 👨‍💻 Developer Profile
+**🏠 Location:** India  
+**💼 Current Role:** Full-Stack Developer  
+**🎓 Background:** Self-taught Developer & Computer Science Enthusiast  
 
-<img src="https://img.shields.io/badge/Name-Satya%20Suranjeet%20Jena-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Location-India-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
+**🎯 Currently Learning:**
+- React Advanced Patterns
+- Flutter State Management
 
-### 🎯 Current Focus
+**🌟 2024 Goals:**
+- Create amazing open source projects
+- Master AI/ML technologies  
+- Build scalable applications
 
-<img src="https://img.shields.io/badge/Learning-React%20Advanced%20Patterns-FF6B35?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Learning-Flutter%20State%20Management-FF6B35?style=for-the-badge&labelColor=0D1117" />
-
-### 🌟 2024 Goals
-
-<img src="https://img.shields.io/badge/Goal-Open%20Source%20Projects-00FF87?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Goal-Master%20AI/ML-00FF87?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Goal-Scalable%20Applications-00FF87?style=for-the-badge&labelColor=0D1117" />
+**🎮 Interests:** Web Development, Mobile Development, AI/ML, Cloud Computing, DevOps
 
 </div>
 
@@ -60,7 +60,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=satyasuranjeet&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -128,7 +128,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyasuranjeet&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -148,7 +148,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -179,7 +179,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -195,7 +195,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
@@ -209,11 +209,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer)
 
 </div>
 
