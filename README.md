@@ -39,20 +39,28 @@
 <!-- Replaced badge-style sections with clean table layout -->
 <div align="left">
 
-**🏠 Location:** India  
-**💼 Current Role:** Full-Stack Developer  
-**🎓 Background:** Self-taught Developer & Computer Science Enthusiast  
+<img src="https://img.shields.io/badge/🏠_Location-India-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/💼_Current_Role-Full--Stack_Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🎓_Background-Self--taught_Developer-00D9FF?style=for-the-badge&labelColor=0D1117" />
 
-**🎯 Currently Learning:**
-- React Advanced Patterns
-- Flutter State Management
+<br><br>
 
-**🌟 2024 Goals:**
-- Create amazing open source projects
-- Master AI/ML technologies  
-- Build scalable applications
+<img src="https://img.shields.io/badge/🎯_Currently_Learning-React_Advanced_Patterns-FF6B35?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📱_Also_Learning-Flutter_State_Management-FF6B35?style=for-the-badge&labelColor=0D1117" />
 
-**🎮 Interests:** Web Development, Mobile Development, AI/ML, Cloud Computing, DevOps
+<br><br>
+
+<img src="https://img.shields.io/badge/🌟_2024_Goal-Open_Source_Projects-00FF87?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🤖_Master-AI/ML_Technologies-00FF87?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🚀_Build-Scalable_Applications-00FF87?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎮_Interests-Web_Development-9D4EDD?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📱_Mobile-Development-9D4EDD?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🤖_AI/ML-Engineering-9D4EDD?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/☁️_Cloud-Computing-9D4EDD?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/⚙️_DevOps-Operations-9D4EDD?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
